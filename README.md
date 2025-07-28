@@ -54,13 +54,6 @@ These visualizations highlight the company’s performance trajectory and help i
 
 ---
 
-## 📌 Purpose
-
-This project was developed as part of a personal financial modeling and data interpretation initiative. It may serve as a helpful resource for:
-- Students learning ratio analysis and financial modeling.
-- Analysts evaluating trends in the steel industry.
-- Recruiters viewing candidate's financial understanding and presentation capabilities.
-
 ---
 
 ## 👤 Author
