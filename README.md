@@ -7,10 +7,19 @@ This repository contains a comprehensive financial analysis of **Tata Steel** ov
 ## 📁 Contents
 
 - `Balance_Sheet`: Key financial position data (assets, liabilities, equity).
+- ![Balance Sheet](Project_Images/TataSteel_BalanceSheet.png)
+- 
 - `P&L`: Profit & Loss statement including income, expenses, and profit trends.
+- ![P&L](Project_Images/TataSteel_P&L.png)
 - `Cash_Flow`: Analysis of cash inflows and outflows from operations, investing, and financing activities.
+- ![Profit&Loss](Project_Images/TataSteel_CashFLow.png)
 - `Ratios`: Financial ratios covering profitability, liquidity, solvency, and efficiency.
+- ![Ratios](Project_Images/TataSteel_Ratios.png)
 - `Ratio Charts`: Visual representations of ratio trends to support time-series analysis.
+- ![Charts_on_Ratios](Project_Images/TataSteel_Charts.png)
+
+  
+
 
 ---
 
