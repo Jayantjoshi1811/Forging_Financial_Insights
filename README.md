@@ -1,4 +1,4 @@
-# Forging_Financial_Insights
+# Forging Financial Insights
 
 This repository contains a comprehensive financial analysis of **Tata Steel** over the past five financial years (FY2021–FY2025). The dataset was manually extracted from company filings and structured into Excel sheets, followed by a deep dive into key financial statements and ratio trends.
 
