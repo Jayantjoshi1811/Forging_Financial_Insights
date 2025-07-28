@@ -49,7 +49,6 @@ These visualizations highlight the company’s performance trajectory and help i
 ## 🔧 Tools Used
 
 - Microsoft Excel
-- Charting tools (Excel's native chart system)
 - Manual data cleaning and formatting
 
 ---
